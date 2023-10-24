@@ -6,8 +6,14 @@ The "Investigating Bike Share" capstone project is designed to apply the skills 
 ## Dataset Overview:
 
 Title: Cyclistic Bike Share
+
+
 Link: https://www.kaggle.com/datasets/evangower/cyclistic-bike-share
+
+
 Source: Kaggle
+
+
 Description: The dataset contains information related to bike-sharing usage and includes a variety of data points such as user information, ride timestamps, ride duration, ride details, and more.
 Key Features and Columns:
 
