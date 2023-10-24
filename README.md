@@ -3,6 +3,13 @@
 ## Overview
 
 The "Investigating Bike Share" capstone project is designed to apply the skills and knowledge acquired throughout the Coursera Data Analytics course. Through a comprehensive examination of a real-world dataset, this project seeks to answer essential questions and shed light on various aspects of bike sharing, including the kind of people who cycle the most, preferred bike types, favored months for rides, and ride durations.
+## Dataset Overview:
+
+Title: Cyclistic Bike Share
+Link: https://www.kaggle.com/datasets/evangower/cyclistic-bike-share
+Source: Kaggle
+Description: The dataset contains information related to bike-sharing usage and includes a variety of data points such as user information, ride timestamps, ride duration, ride details, and more.
+Key Features and Columns:
 
 ## Project Goals
 
@@ -27,6 +34,6 @@ The "Investigating Bike Share" capstone project is designed to apply the skills 
 
 ## How to Use This Repository
 
-- The Jupyter Notebook (`bike_share_project.ipynb`) provides a step-by-step walkthrough of the analysis, code, and visualizations.
+- The Jupyter Notebook (`bike-share-project.ipynb`) provides a step-by-step walkthrough of the analysis, code, and visualizations.
 
 This project showcases the practical application of data analytics skills to uncover actionable insights in the context of bike sharing. It serves as a valuable demonstration of data-driven decision-making and data analysis proficiency.
