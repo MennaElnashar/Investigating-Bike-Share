@@ -15,7 +15,6 @@ Source: Kaggle
 
 
 Description: The dataset contains information related to bike-sharing usage and includes a variety of data points such as user information, ride timestamps, ride duration, ride details, and more.
-Key Features and Columns:
 
 ## Project Goals
 
